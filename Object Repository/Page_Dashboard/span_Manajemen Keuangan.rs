@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Manajemen Keuangan</name>
+   <tag></tag>
+   <elementGuidId>43df6032-acbf-4c5f-8a1d-a5ce1ed8f024</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='accordionSidebar']/li[3]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c983d811-72fc-4b4f-b1a2-2be8d4576c3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manajemen Keuangan</value>
+      <webElementGuid>3eb7fb02-2d80-484c-8616-fdfa2109a63d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordionSidebar&quot;)/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link collapsed&quot;]/span[1]</value>
+      <webElementGuid>f9a59fa9-b237-4db5-90a3-8efbd143f5a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='accordionSidebar']/li[3]/a/span</value>
+      <webElementGuid>f1feb900-6d2d-4096-8d17-827083acc22f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen Keuangan'])[1]/following::span[1]</value>
+      <webElementGuid>492d5713-81e3-4f89-b1b6-836499fc2b79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Anggota'])[1]/following::span[1]</value>
+      <webElementGuid>a6bfacef-4867-4ad6-9c81-cedcf33b8426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setor Kas'])[1]/preceding::span[1]</value>
+      <webElementGuid>c845d7be-7987-4e41-ac37-40175d32a034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Kas'])[1]/preceding::span[1]</value>
+      <webElementGuid>35541b8a-9a0b-4b03-b2ab-c8de6c0abee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/span</value>
+      <webElementGuid>934b9524-d4f9-4231-b7ff-d52db4a01764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Manajemen Keuangan' or . = 'Manajemen Keuangan')]</value>
+      <webElementGuid>aff3d0e4-447b-4971-b43e-05650a7fbde1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

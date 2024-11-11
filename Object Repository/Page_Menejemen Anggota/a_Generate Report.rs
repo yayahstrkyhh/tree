@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Generate Report</name>
+   <tag></tag>
+   <elementGuidId>e95f6cf4-561b-434f-bb86-c683cee5464f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.d-none.d-sm-inline-block.btn.btn-sm.btn-primary.shadow-sm.mt-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div[2]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>99cdc8f4-58bd-48f3-b316-fe93d6fbb375</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>export_anggota.php</value>
+      <webElementGuid>7538d050-f31d-4177-8b72-c01136664f4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm mt-1</value>
+      <webElementGuid>5e6c87f0-1b68-4144-a925-ea74a252466f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Generate Report</value>
+      <webElementGuid>dcdad477-9b44-4320-a2a7-5043e688e86b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;card shadow mb-4&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-md-8  mt-4&quot;]/a[@class=&quot;d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm mt-1&quot;]</value>
+      <webElementGuid>b68ed69c-c97e-4715-aaff-85e5a6f73aa3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div[2]/div/div/a</value>
+      <webElementGuid>45c9f17c-1cc3-46d0-b7da-c2ed52fc4663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Generate Report')]</value>
+      <webElementGuid>df28eeaa-804c-4f72-8ed6-d075b1588ce4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kapasitas Anggota: 36'])[1]/following::a[1]</value>
+      <webElementGuid>2ec1f4b0-f8ec-4952-8cba-c075a6e5029f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Anggota:'])[1]/following::a[1]</value>
+      <webElementGuid>13207e4a-2373-4749-a98c-60c58c3158a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::a[1]</value>
+      <webElementGuid>fbf5bbed-30ee-4e7f-8c6c-fe7e77f798b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Generate Report']/parent::*</value>
+      <webElementGuid>a35e5d79-42dc-466f-a87a-1af04e7ed5e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'export_anggota.php')]</value>
+      <webElementGuid>4f027182-e1c0-4fa5-9d06-edc063a93373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a</value>
+      <webElementGuid>4bfcc7e1-0529-4585-850a-ee4fc7fbe32c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'export_anggota.php' and (text() = ' Generate Report' or . = ' Generate Report')]</value>
+      <webElementGuid>b6eb6b17-a631-4607-96d4-e66643e47a72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

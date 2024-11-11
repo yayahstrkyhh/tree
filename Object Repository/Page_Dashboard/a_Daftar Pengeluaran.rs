@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Daftar Pengeluaran</name>
+   <tag></tag>
+   <elementGuidId>523d4e74-74a7-46b4-b98c-31e7044b1269</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapseUtilities']/div/a[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cd708740-37d5-466c-a5dc-359a29283479</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>collapse-item</value>
+      <webElementGuid>c5797631-6c1e-4d9f-ba29-023106f23b70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>daftar_out.php</value>
+      <webElementGuid>f64ffb3c-2096-4c92-a952-5078c181c3e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Pengeluaran</value>
+      <webElementGuid>b7b8e7e6-695b-4ca3-99b4-281501feab33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapseUtilities&quot;)/div[@class=&quot;bg-white py-2 collapse-inner rounded&quot;]/a[@class=&quot;collapse-item&quot;]</value>
+      <webElementGuid>c778604f-41a1-4d77-81cb-f6b78a30d00a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseUtilities']/div/a[5]</value>
+      <webElementGuid>dbf43d0d-413b-4a1a-8fbd-253e96d1b362</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Daftar Pengeluaran')]</value>
+      <webElementGuid>86cdf509-b291-49a0-b179-e7e423200a48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Catat Pengeluaran'])[1]/following::a[1]</value>
+      <webElementGuid>290eee8b-7ba5-4346-ac85-86bc0d55a925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nunda Kas'])[1]/following::a[2]</value>
+      <webElementGuid>d399abac-2f3a-45dc-a018-ccb8b5cc3631</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='addmin'])[1]/preceding::a[1]</value>
+      <webElementGuid>5481a8ab-8eb0-4918-832b-df7fc53f0511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar Pengeluaran']/parent::*</value>
+      <webElementGuid>39c7aab5-7155-4ab8-b688-ed93b65edf3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'daftar_out.php')]</value>
+      <webElementGuid>1cab2a9e-8def-4960-b787-7539195abef1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]</value>
+      <webElementGuid>501735ed-d7ba-4fdb-be18-05ad0843ee74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'daftar_out.php' and (text() = 'Daftar Pengeluaran' or . = 'Daftar Pengeluaran')]</value>
+      <webElementGuid>f1267d09-e414-42d9-9ae1-9b51278fc319</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

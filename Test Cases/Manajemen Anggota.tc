@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Manajemen Anggota</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>724e549e-cec1-4bc1-87a0-e81af601411f</testCaseGuid>
+</TestCaseEntity>

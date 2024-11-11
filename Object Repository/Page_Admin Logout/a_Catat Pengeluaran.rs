@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Catat Pengeluaran</name>
+   <tag></tag>
+   <elementGuidId>b7a9e6b0-81d8-497f-a554-d749332986c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapseUtilities']/div/a[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b2934b38-b345-41ec-bc1e-4fed9d49be87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>collapse-item</value>
+      <webElementGuid>97b954ac-6b99-4739-a8a7-1cd5b4dcd7a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>catat_out.php</value>
+      <webElementGuid>c1441eec-ba8e-48b4-bf7d-c0a0080e8cc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Catat Pengeluaran</value>
+      <webElementGuid>98dd950c-31c5-46ff-9eb6-1e6700a4e662</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapseUtilities&quot;)/div[@class=&quot;bg-white py-2 collapse-inner rounded&quot;]/a[@class=&quot;collapse-item&quot;]</value>
+      <webElementGuid>ff97c656-b769-4203-809c-bed6921b4ae6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseUtilities']/div/a[4]</value>
+      <webElementGuid>f9786ded-5d4f-4c7a-b49c-8d5fa49f9879</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Catat Pengeluaran')]</value>
+      <webElementGuid>9114fbb1-1439-4146-929f-3866bab9fc1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nunda Kas'])[1]/following::a[1]</value>
+      <webElementGuid>f220acd3-fff7-4f9f-b9af-88f7923a3981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Kas'])[1]/following::a[2]</value>
+      <webElementGuid>c8a47b81-e8f8-4e10-803e-aca8427102e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Pengeluaran'])[1]/preceding::a[1]</value>
+      <webElementGuid>ea7eab48-fe5b-463f-ba48-d0227c054fa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='admin4'])[1]/preceding::a[2]</value>
+      <webElementGuid>1eee492a-50ef-4d80-9751-734a5427f5ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Catat Pengeluaran']/parent::*</value>
+      <webElementGuid>3f00d5f9-87e6-4b44-8590-46ed0e1c12ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'catat_out.php')]</value>
+      <webElementGuid>d3a7206c-8dc6-4fa9-9015-511870b8da42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]</value>
+      <webElementGuid>d67a840e-f18f-47d9-bc75-1c23e04781b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'catat_out.php' and (text() = 'Catat Pengeluaran' or . = 'Catat Pengeluaran')]</value>
+      <webElementGuid>1b100663-d104-47f9-b29a-e4e040e13e0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

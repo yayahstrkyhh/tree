@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Nunda Kas</name>
+   <tag></tag>
+   <elementGuidId>206a379a-7e80-48b4-8369-f7ae60a21de3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapseUtilities']/div/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>57048c67-4d70-4b95-8641-926b5241edb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>collapse-item</value>
+      <webElementGuid>22a2ca6b-88f3-4435-86c9-1d861abafb7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>nunda_kas.php</value>
+      <webElementGuid>3aa02e38-7742-45b5-b9da-d1f9b3d64aab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nunda Kas</value>
+      <webElementGuid>a8e85193-aa05-4b33-94c9-c74fd5687a67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapseUtilities&quot;)/div[@class=&quot;bg-white py-2 collapse-inner rounded&quot;]/a[@class=&quot;collapse-item&quot;]</value>
+      <webElementGuid>e7888b47-0998-4674-be20-66bb056a4dd9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseUtilities']/div/a[3]</value>
+      <webElementGuid>82857c96-621d-40b2-b3d8-472af8eafebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Nunda Kas')]</value>
+      <webElementGuid>15835c24-381a-453f-bc8e-5878f34f8734</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Kas'])[1]/following::a[1]</value>
+      <webElementGuid>02417bc1-4af3-4ac8-b9c6-7ef2fb042957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setor Kas'])[1]/following::a[2]</value>
+      <webElementGuid>157b1c77-8926-4ece-a7f0-868cb18c5a12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Catat Pengeluaran'])[1]/preceding::a[1]</value>
+      <webElementGuid>4d7bfd1d-43d4-4f75-8f73-15d92ca2b7a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Pengeluaran'])[1]/preceding::a[2]</value>
+      <webElementGuid>d7d8697b-d2fc-4ec4-b59b-bb344dd30c54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nunda Kas']/parent::*</value>
+      <webElementGuid>2fe95487-59e8-44da-bbb0-751fb96b3e70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'nunda_kas.php')]</value>
+      <webElementGuid>3a7c8a22-c25e-4a63-8824-4ba0624b3955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>73877617-d942-4af0-ba8e-0956b946c828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'nunda_kas.php' and (text() = 'Nunda Kas' or . = 'Nunda Kas')]</value>
+      <webElementGuid>b4a84557-195d-4faa-b3f8-c8ea9b95c96f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

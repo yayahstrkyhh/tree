@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Riwayat</name>
+   <tag></tag>
+   <elementGuidId>e4b5fccc-5921-4886-88ab-e64d893ed85a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/nav/ul/li/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>72ec69d4-848a-4995-812f-ebc77efe45c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>93167fbd-042b-45b2-a13c-1d85aa5f8b9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>profile.php</value>
+      <webElementGuid>36fc2b54-9f5e-42af-87e2-6ebed3425e3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  
+                  Riwayat
+                </value>
+      <webElementGuid>413b30ad-699b-478f-8f60-1f5f3dbb61fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/nav[@class=&quot;navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow&quot;]/ul[@class=&quot;navbar-nav ml-auto&quot;]/li[@class=&quot;nav-item dropdown no-arrow show&quot;]/div[@class=&quot;dropdown-menu dropdown-menu-right shadow animated--grow-in show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>785aa64f-76c8-433f-bed2-798361e20369</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/nav/ul/li/div/a</value>
+      <webElementGuid>075d2107-4683-4f9f-bd59-afc4e50f4b92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='admin4'])[1]/following::a[1]</value>
+      <webElementGuid>c454b9dd-acff-4ab4-9e4d-3b4942ca0f83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Pengeluaran'])[1]/following::a[2]</value>
+      <webElementGuid>c5b0bcdf-adeb-4d64-8e36-91121951ad0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Riwayat']/parent::*</value>
+      <webElementGuid>b2419ba7-61a9-40d4-babc-8ffb346e2b22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'profile.php')]</value>
+      <webElementGuid>94d3fab4-0b0b-4bb3-b7cf-23bab1a1d2c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/a</value>
+      <webElementGuid>cc8fa697-1695-45be-9f48-9f15307fcb30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'profile.php' and (text() = '
+                  
+                  Riwayat
+                ' or . = '
+                  
+                  Riwayat
+                ')]</value>
+      <webElementGuid>325a4291-ff9f-4a82-a443-db356c6c299c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

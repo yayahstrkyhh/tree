@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tambah Anggota</name>
+   <tag></tag>
+   <elementGuidId>4349c3f0-0035-4635-a5aa-b7753f5ac4cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.collapse-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapseTwo']/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fdeceab0-3a8b-4249-b29a-50c1abcaae2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>collapse-item</value>
+      <webElementGuid>55cf92e8-1f6a-4486-a30f-08e377bb8035</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>tambah_anggota.php</value>
+      <webElementGuid>28157d0d-200d-40c4-abd2-7606acb7b33c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah Anggota</value>
+      <webElementGuid>9f6c12d8-b178-467c-9c4e-10b54247d32d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapseTwo&quot;)/div[@class=&quot;bg-white py-2 collapse-inner rounded&quot;]/a[@class=&quot;collapse-item&quot;]</value>
+      <webElementGuid>6f5c015b-2b97-4065-9e6f-1fa10d3cbdde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseTwo']/div/a</value>
+      <webElementGuid>7e77588e-422c-46ab-af00-f50482deb9d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tambah Anggota')]</value>
+      <webElementGuid>8de25ce4-7a59-4a01-aec3-856809a457b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen Anggota'])[2]/following::a[1]</value>
+      <webElementGuid>22c8e981-2022-4b7b-b2f1-78cab8bde5db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen Anggota'])[1]/following::a[2]</value>
+      <webElementGuid>2172cbe5-2af8-4bc0-a71f-76928557bc28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Anggota'])[1]/preceding::a[1]</value>
+      <webElementGuid>3ef5b98e-a1c9-409d-ab23-34b941f708b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen Keuangan'])[1]/preceding::a[2]</value>
+      <webElementGuid>c3b6ae4b-4e5f-4367-9db2-cb939d34b00e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tambah Anggota']/parent::*</value>
+      <webElementGuid>aca28050-42f9-4d79-b3b5-3eb2f765f4f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'tambah_anggota.php')]</value>
+      <webElementGuid>05ed506c-c54a-44a4-8e03-298236a8fdea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a</value>
+      <webElementGuid>35a5b14d-c3bc-46e5-a363-645c87bb4dcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'tambah_anggota.php' and (text() = 'Tambah Anggota' or . = 'Tambah Anggota')]</value>
+      <webElementGuid>fd9e6835-8427-4edb-9250-2769cc1f120f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

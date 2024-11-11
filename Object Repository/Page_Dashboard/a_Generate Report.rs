@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Generate Report</name>
+   <tag></tag>
+   <elementGuidId>b723251f-6b95-4a5d-b313-4238cf59d7dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.d-none.d-sm-inline-block.btn.btn-sm.btn-primary.shadow-sm.mt-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div[2]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6e4dd07a-aa75-4e10-94fa-7eb8ded9b998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>export_keluar.php</value>
+      <webElementGuid>f5f25129-7da8-42b8-88ec-acebef03fc20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm mt-1</value>
+      <webElementGuid>452cac10-f484-4ffe-8acc-485d35bed561</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Generate Report</value>
+      <webElementGuid>0b6c0f72-671e-4ba5-a7e6-d48ee0418b3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;card shadow mb-4&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-md-8  mt-4&quot;]/a[@class=&quot;d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm mt-1&quot;]</value>
+      <webElementGuid>b3a95396-1f69-4d5f-8ed6-894b8ffd9632</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div[2]/div/div/a</value>
+      <webElementGuid>6000fe0c-e83d-4a04-8346-ebd162e10317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Generate Report')]</value>
+      <webElementGuid>388e27d2-4e69-4f1f-8685-e74b6e2d217b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengeluaran Kas Di Tabel: 64 Max'])[1]/following::a[1]</value>
+      <webElementGuid>0f029cfb-b9fc-4e7f-b7dc-fe1d15a40d3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Pengeluaran Kas:'])[1]/following::a[1]</value>
+      <webElementGuid>a40490eb-e592-4c3c-8fb0-556588d93bec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::a[1]</value>
+      <webElementGuid>0ac863a5-86c1-47ea-8fc0-683b6928e1a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::a[1]</value>
+      <webElementGuid>907ef2d1-9d04-4152-84eb-91c15c143782</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Generate Report']/parent::*</value>
+      <webElementGuid>be432232-2cec-43a9-96d6-d19992a215ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'export_keluar.php')]</value>
+      <webElementGuid>aa7372b3-12c9-4640-a99a-9d910c378ce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a</value>
+      <webElementGuid>f391dd70-b420-4b4e-86a4-acbcfc87af28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'export_keluar.php' and (text() = ' Generate Report' or . = ' Generate Report')]</value>
+      <webElementGuid>60b510dd-5164-416e-a54f-da53f25ae37c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

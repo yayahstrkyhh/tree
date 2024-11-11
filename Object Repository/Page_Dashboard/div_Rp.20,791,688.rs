@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rp.20,791,688</name>
+   <tag></tag>
+   <elementGuidId>cafde4f5-48d9-4e8b-a01f-a2906d47f726</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.card.border-left-success.shadow.h-100.py-2 > div.card-body > div.row.no-gutters.align-items-center > div.col.mr-2 > div.h5.mb-0.font-weight-bold.text-gray-800</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div[2]/div[2]/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9c6fd34e-cef8-4cb0-83e2-6b55b1a21ed1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h5 mb-0 font-weight-bold text-gray-800</value>
+      <webElementGuid>97ef328d-37b5-4465-8da1-d57b3727a1f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp.20,791,688</value>
+      <webElementGuid>c8d46150-f026-4c56-bdc5-236d5a3ec80e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-3 col-md-6 mb-4&quot;]/div[@class=&quot;card border-left-success shadow h-100 py-2&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row no-gutters align-items-center&quot;]/div[@class=&quot;col mr-2&quot;]/div[@class=&quot;h5 mb-0 font-weight-bold text-gray-800&quot;]</value>
+      <webElementGuid>ac1e7076-0d93-47de-be80-7843d7898936</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div[2]/div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>e345d076-c6cd-4751-a272-c89904eb61ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Uang Pengeluaran'])[1]/following::div[1]</value>
+      <webElementGuid>cf751721-67e1-42f4-b4c0-71abd078cefd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp.1,000,000,000,000,000,044,885,712,678,075,916,785,549,312'])[1]/following::div[8]</value>
+      <webElementGuid>b94a323a-0cf5-43e0-bd58-f18aa1ae9ddb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Anggota'])[1]/preceding::div[2]</value>
+      <webElementGuid>8e956c4d-14e4-4bd7-8094-4db7673f74b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Pengeluaran'])[1]/preceding::div[10]</value>
+      <webElementGuid>e8b66eec-ec6d-49cd-a0b6-69659690b342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rp.20,791,688']/parent::*</value>
+      <webElementGuid>082e3448-5655-4f3f-91f5-93b3414f8577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>4f7eccd6-c784-464e-82f0-d21b487dd52d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Rp.20,791,688' or . = 'Rp.20,791,688')]</value>
+      <webElementGuid>66f7082c-9d8e-4f4a-b903-0d93f09da792</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

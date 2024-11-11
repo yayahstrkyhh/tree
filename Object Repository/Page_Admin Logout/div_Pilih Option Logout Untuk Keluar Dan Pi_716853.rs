@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pilih Option Logout Untuk Keluar Dan Pi_716853</name>
+   <tag></tag>
+   <elementGuidId>daa31c0d-e2e2-4116-a945-7ccee37561ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='logoutModal']/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e9b11089-2e27-484a-83ed-d2fccdbe30a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-body</value>
+      <webElementGuid>6ffa785b-69f7-4c54-8e74-c5f7c6f65d9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Option &quot;Logout&quot; Untuk Keluar Dan Pilih Option &quot;Cancel&quot; Untuk Membatalkan</value>
+      <webElementGuid>266dbfe6-50f0-47ff-95ea-f7cf04992379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;logoutModal&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]</value>
+      <webElementGuid>1e8bf109-b2a6-4d13-bb90-fe20c80bbebb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='logoutModal']/div/div/div[2]</value>
+      <webElementGuid>a3c2ff6d-e48a-4bc9-8544-bde4af560d1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yakin Mau Keluar?'])[1]/following::div[1]</value>
+      <webElementGuid>4b23a3c1-485d-4da5-b5ea-df494c4e2319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Faiz Nurullah'])[1]/following::div[5]</value>
+      <webElementGuid>69a21872-d8fd-4fc1-85d6-751e207d9c5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[1]</value>
+      <webElementGuid>5c9ca108-cf85-4929-ae79-2c44584f7793</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::div[1]</value>
+      <webElementGuid>cf8eb205-d735-43e1-ac26-0022eba5685c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pilih Option &quot;Logout&quot; Untuk Keluar Dan Pilih Option &quot;Cancel&quot; Untuk Membatalkan']/parent::*</value>
+      <webElementGuid>f6950b9f-63f9-48c9-9f0a-78c667c03a9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]</value>
+      <webElementGuid>b14ad321-8a43-48d4-857b-3e2e1b1e6f4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pilih Option &quot;Logout&quot; Untuk Keluar Dan Pilih Option &quot;Cancel&quot; Untuk Membatalkan' or . = 'Pilih Option &quot;Logout&quot; Untuk Keluar Dan Pilih Option &quot;Cancel&quot; Untuk Membatalkan')]</value>
+      <webElementGuid>050eee4e-d252-4c59-b02d-f0ba5d1c9c1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

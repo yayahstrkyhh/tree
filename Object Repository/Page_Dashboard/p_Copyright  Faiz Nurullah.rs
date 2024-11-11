@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Copyright  Faiz Nurullah</name>
+   <tag></tag>
+   <elementGuidId>6e830bf5-4e6c-4348-8382-86d8f3c0aa6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.mb-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrapper']/footer/div/div/span/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e244b0a7-4f37-4053-a800-d952be152eac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-1</value>
+      <webElementGuid>7ca7365d-3ee1-459a-9253-553e442022c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Copyright © Faiz Nurullah</value>
+      <webElementGuid>57205ba5-6a73-42ad-8bf0-45dd8652e5b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/footer[@class=&quot;sticky-footer bg-white&quot;]/div[@class=&quot;container my-auto&quot;]/div[@class=&quot;copyright text-center my-auto&quot;]/span[1]/p[@class=&quot;mb-1&quot;]</value>
+      <webElementGuid>9bef5433-6133-44d7-8f6b-a82efd5e1a50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/footer/div/div/span/p</value>
+      <webElementGuid>525ea80e-a849-4bb8-b7c0-a688057cba8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Pengeluaran'])[1]/following::p[1]</value>
+      <webElementGuid>63a0be52-ceda-46c0-ae66-531325851daf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Anggota'])[1]/following::p[1]</value>
+      <webElementGuid>62c72848-d806-4f65-a0ce-603925335bc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yakin Mau Keluar?'])[1]/preceding::p[1]</value>
+      <webElementGuid>fba0876a-0661-41b4-9a79-6c5ccd73f57a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Copyright ©']/parent::*</value>
+      <webElementGuid>57b2fbc2-a099-47c8-9b74-a7544bfdccad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>d4478b37-036f-454b-8628-f4c1f561309d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Copyright © Faiz Nurullah' or . = 'Copyright © Faiz Nurullah')]</value>
+      <webElementGuid>681522c9-a657-4eb8-b80a-99053c4dbe08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

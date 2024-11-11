@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>center_5000</name>
+   <tag></tag>
+   <elementGuidId>bdd81c32-6703-46c2-97ac-17607202baae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(22) > td:nth-of-type(3) > center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='buku'])[3]/following::center[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>center</value>
+      <webElementGuid>680d7d5f-7a31-46bc-8284-779d724d0171</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>5000</value>
+      <webElementGuid>cd3200a5-3604-4b34-8c75-77af32bd5b6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/center[1]/table[@class=&quot;mt-4&quot;]/tbody[1]/tr[22]/td[3]/center[1]</value>
+      <webElementGuid>0719d11d-e7d8-4807-b1ed-67c740e96da6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='buku'])[3]/following::center[1]</value>
+      <webElementGuid>e7d39c99-f97f-45dc-a4ce-a0a9e316c0c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pulpen'])[2]/following::center[5]</value>
+      <webElementGuid>76e25be0-ad2d-4b82-9f7e-007bd19096d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[22]/td[3]/center</value>
+      <webElementGuid>d8a7807b-9350-446b-b84d-717cfd726c8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//center[(text() = '5000' or . = '5000')]</value>
+      <webElementGuid>3321a813-c619-42b4-9db8-2b3683da9cc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Daftar Pengeluaran_text-center d-none d_242091</name>
+   <tag></tag>
+   <elementGuidId>9b90038f-3fec-4fa0-873a-5cde64eaf5ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-center.d-none.d-md-inline</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='accordionSidebar']/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9926c745-f1cf-46fa-91b9-4a5d240feb10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center d-none d-md-inline</value>
+      <webElementGuid>a4fef940-1f44-4e52-85fc-0097f1ccf86a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordionSidebar&quot;)/div[@class=&quot;text-center d-none d-md-inline&quot;]</value>
+      <webElementGuid>8d0dc31c-aa3b-4b5d-85ed-da006488d24e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='accordionSidebar']/div[3]</value>
+      <webElementGuid>18064dc4-8853-487d-80d6-50ccbce6a481</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Pengeluaran'])[1]/following::div[1]</value>
+      <webElementGuid>e092c267-94c1-4488-9727-75b86446d204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Catat Pengeluaran'])[1]/following::div[1]</value>
+      <webElementGuid>f7c4b2e6-8863-45ba-8689-88fa28c4336f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='addmin'])[1]/preceding::div[2]</value>
+      <webElementGuid>095c0a16-cbdd-4e20-ba65-3f78abadabd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]</value>
+      <webElementGuid>fd143313-3138-4cea-8dd5-5f67686a2b07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

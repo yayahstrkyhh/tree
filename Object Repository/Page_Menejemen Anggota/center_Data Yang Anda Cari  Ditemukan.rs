@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>center_Data Yang Anda Cari  Ditemukan</name>
+   <tag></tag>
+   <elementGuidId>d3c207ef-666a-4c45-a711-4277c9555c99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div[2]/div[2]/div/div/center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>center</value>
+      <webElementGuid>b175340f-4814-4c1b-a406-b6f884d0cf50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data Yang Anda Cari  Ditemukan</value>
+      <webElementGuid>8e29780a-78bf-4fc7-9533-d4968285c4d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;card shadow mb-4&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;table-responsive service&quot;]/div[@class=&quot;col-md-10 col-sm-12 col-xs-12 ml-5&quot;]/div[@class=&quot;alert alert-primary mt-4 ml-5&quot;]/center[1]</value>
+      <webElementGuid>5ec80611-c608-42c9-a18d-31e4a76cf2d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div[2]/div[2]/div/div/center</value>
+      <webElementGuid>c8f46258-1682-4fc2-9d47-a26bf9ea0e57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::center[1]</value>
+      <webElementGuid>754147d9-cd0b-4268-866a-6c06f029c2df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generate Report'])[1]/following::center[1]</value>
+      <webElementGuid>76f42461-7d9b-408c-b33a-6163886e30f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::center[1]</value>
+      <webElementGuid>37221daa-d99f-4d18-85e6-96ffcd1eb543</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Anggota'])[1]/preceding::center[1]</value>
+      <webElementGuid>36e41a21-29ae-40ad-b504-669e38e04488</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//center</value>
+      <webElementGuid>68f7389b-bb86-4ac8-b6af-742fa4df5e87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//center[(text() = 'Data Yang Anda Cari  Ditemukan' or . = 'Data Yang Anda Cari  Ditemukan')]</value>
+      <webElementGuid>8545cac5-715a-44b9-b08c-bbfed201947a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

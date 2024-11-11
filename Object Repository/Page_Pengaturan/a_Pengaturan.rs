@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pengaturan</name>
+   <tag></tag>
+   <elementGuidId>f2f421aa-ecaf-4d81-9b0d-6d430b70292b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/nav/ul/li/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>27e66c1d-2508-49a9-b727-23c1ed0b2d70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>397ec0ac-ad90-4924-a3b0-1626680a3fb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>pengaturan.php?id=3</value>
+      <webElementGuid>f84cbcab-e712-45e9-8eb7-e49d4eae8eee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  
+                  Pengaturan
+                </value>
+      <webElementGuid>64a97aca-9753-4eb1-8dfc-975f925640ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/nav[@class=&quot;navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow&quot;]/ul[@class=&quot;navbar-nav ml-auto&quot;]/li[@class=&quot;nav-item dropdown no-arrow show&quot;]/div[@class=&quot;dropdown-menu dropdown-menu-right shadow animated--grow-in show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>008b2089-8892-47aa-b331-ce73da9c687c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/nav/ul/li/div/a[2]</value>
+      <webElementGuid>7b81eae5-0172-48a3-b3d0-8490ca4b9feb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='admin4'])[1]/following::a[2]</value>
+      <webElementGuid>74e793a5-5594-4b3a-bbd6-f88a2c4b7e71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile:'])[1]/preceding::a[3]</value>
+      <webElementGuid>05ba29aa-9e7a-484b-af1c-08da505c84f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pengaturan']/parent::*</value>
+      <webElementGuid>ab468752-cbdb-4523-9c8a-c83c2f3e7494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'pengaturan.php?id=3')]</value>
+      <webElementGuid>dd1b6284-9c41-4fb3-9611-0ebaf4c3fa8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/a[2]</value>
+      <webElementGuid>cd3ad10d-87e7-4f2b-b633-8e2e7e2f3ad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'pengaturan.php?id=3' and (text() = '
+                  
+                  Pengaturan
+                ' or . = '
+                  
+                  Pengaturan
+                ')]</value>
+      <webElementGuid>74c40f70-ca07-4316-b182-dea2ef8f1c70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
